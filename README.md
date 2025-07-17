@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minyeop%20Lee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Good%20to%20see%20you&fontSize=90" />
 
 <!--타이틀 부분-->
 <div align="center">
