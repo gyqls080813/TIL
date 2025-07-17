@@ -1,10 +1,10 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%0AMinyeop%20Lee's%20GitHub&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Good%20to%20see%20you&fontSize=60" />
 
 <!-- 자기소개 -->
-<h2 align="center">👋 안녕하세요, 이민엽입니다!</h2>
+<h2 align="center">👋 안녕하세요! 이민엽입니다!</h2>
 <p align="center">임베디드 개발자로 도약 중인 열정 개발자 💻<br/>
-환경공학 전공 🎓 | SSAFY 준비중 💪 | C++ & Python을 다룹니다</p>
+환경공학 전공 🎓 | SSAFY 교육 중 💪 | Python을 다룹니다</p>
 
 ---
 
