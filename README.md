@@ -6,11 +6,11 @@
 <p align="center">임베디드 개발자로 도약 중인 열정 개발자 💻<br/>
 
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls0808133)](https://solved.ac/gyqls0808133/)
 
 <!-- 기술 스택 -->
 ### 🛠️ Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++ Badge"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> </p>
----
 
 <!-- GitHub 통계 -->
 ### 📊 GitHub Stats
