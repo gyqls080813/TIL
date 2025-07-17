@@ -55,11 +55,10 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Minyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=tokyonight)](https://github.com/gyqls080813)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=tokyonight)](https://github.com/gyqls080813)
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=tokyonight&hide_title=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=tokyonight&hide_title=true" height="180"/>
+  </p>
 
   
 </div>
