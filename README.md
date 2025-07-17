@@ -1,5 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls080813)](https://solved.ac/gyqls080813/)
-
 <div>
   
   <!--Header-->
@@ -14,6 +12,8 @@
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls080813)](https://solved.ac/gyqls080813/)
+
   <br/>
   <br/>
   
