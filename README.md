@@ -6,7 +6,7 @@
 <p align="center">임베디드 개발자로 도약 중인 열정 개발자 💻<br/>
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls0808133)](https://solved.ac/gyqls0808133/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls080813)](https://solved.ac/gyqls080813/)
 
 <!-- 기술 스택 -->
 ### 🛠️ Tech Stack
