@@ -56,9 +56,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minyeop-Lee)](https://github.com/gyqls080813/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minyeop-Lee)](https://github.com/gyqls080813/github-README-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minyeop-Lee)](https://github.com/gyqls080813/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minyeop-Lee)](https://github.com/gyqls080813/github-READM-stats)
   
 </div>
 
