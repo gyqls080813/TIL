@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Interactive Binary Search Simulator"
-date: 2025-08-27
-categories: Algorithm
+layout: default
+title: "Binary Search"
+permalink: /categories/algorithm/binary_search/
 ---
 
-Here is an interactive binary search simulator. You can see how the algorithm narrows down the search space step by step.
+## Binary Search
+
+This page explains the Binary Search algorithm and includes an interactive simulator.
 
 <style>
   #bs-container {
