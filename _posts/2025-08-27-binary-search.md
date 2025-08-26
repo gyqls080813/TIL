@@ -3,6 +3,7 @@ layout: post
 title: "Binary Search Simulator"
 date: 2025-08-27
 categories: [Algorithm, Binary_search]
+permalink: /algorithm/binary-search/
 ---
 
 This page explains the Binary Search algorithm and includes an interactive simulator.
