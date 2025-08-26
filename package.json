@@ -1,0 +1,30 @@
+{
+  "name": "gyqls080813.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:jsx": "babel _jsx --out-dir assets/js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyqls080813/gyqls080813.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyqls080813/gyqls080813.github.io/issues"
+  },
+  "homepage": "https://github.com/gyqls080813/gyqls080813.github.io#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.3",
+    "@babel/preset-react": "^7.27.1"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}

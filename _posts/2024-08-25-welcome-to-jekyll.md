@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Minyeop!"
+pinned: true
 date:   2024-08-25 10:00:00 +0900
 categories: Minyeop update
 ---
