@@ -1,10 +1,9 @@
 ---
-layout: default
-title: "Binary Search"
-permalink: /categories/algorithm/binary_search/
+layout: post
+title: "Binary Search Simulator"
+date: 2025-08-27
+categories: [Algorithm, Binary_search]
 ---
-
-## Binary Search
 
 This page explains the Binary Search algorithm and includes an interactive simulator.
 
